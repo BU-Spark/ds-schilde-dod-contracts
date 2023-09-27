@@ -1,6 +1,9 @@
-# TEMPLATE-base-repo
+# Kaija Schilde DoD Contracts Project
 
-# Add Users
-To add yourself to the repository, open a Pull Request modifying `COLLABORATORS`, entering your GitHub username in a newline.
+If your project has multiple teams add changes (code, deliverables, data, etc.) to your team folder.
 
-All Pull Requests must follow the Pull Request Template, with a title formatted like such `[Project Name]: <Descriptive Title>`
+Create a new branch from dev branch, add changes to your team folder (on the new branch you just created).
+
+Open a Pull Request to your dev. Add your PM and TPM as reviewers.  ***Do not delete any team folders.***
+
+At the end of the semester during project wrap up open a final Pull Request to <code>main</code> from dev. 
