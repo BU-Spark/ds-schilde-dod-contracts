@@ -169,3 +169,7 @@ $RECYCLE.BIN/
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
 *.csv
+fa23-team/src/Contracts_PrimeAwardSummaries_2023-11-17_H16M15S15_1.csv
+fa23-team/src/Contracts_PrimeAwardSummaries_2023-11-17_H07M46S22_1.csv
+fa23-team/src/Contracts_PrimeAwardSummaries_2023-11-17_H07M46S22_1.tar.gz
+fa23-team/src/Contracts_PrimeAwardSummaries_2023-11-17_H16M15S15_1.tar.gz
